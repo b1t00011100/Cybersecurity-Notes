@@ -7,5 +7,6 @@ A public collection of my cybersecurity study notes, certification prep, lab wri
 - 🧪 PortSwigger Web Security Academy
 - 🔐 TryHackMe
 - 🛠️ Tools & Techniques
+- 🧑‍💻 BCA Notes
 
 Shared for learning, revision, and reference.
