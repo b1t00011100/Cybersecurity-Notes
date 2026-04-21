@@ -1,4 +1,4 @@
-#  VAPT Attack Cheat Sheets
+#  VAPT Attack Cheat Sheet
 
 A collection of concise, structured notes on common security vulnerabilities, covering **description, exploitation techniques, impact, and remediation**.
 
